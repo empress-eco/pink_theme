@@ -1,12 +1,13 @@
-# Pink Theme for Empress
+<div align="center">
 
-![Pink Theme Logo](https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png
+<img src="https://grow.empress.eco/uploads/default/original/2X/1/1f1e1044d3864269d2a613577edb9763890422ab.png" alt="Logo" width="80" height="80">
 
 Transform your Empress interface with a vibrant splash of modern aesthetics and functionality. Pink Theme offers a fresh, lively look for Empress users who value both style and utility.
 
-- [Explore the Docs](https://grow.empress.eco/)
-- [Report Bug](https://github.com/empress-eco/pink_theme/issues)
-- [Request Feature](https://github.com/empress-eco/pink_theme/issues)
+[Explore the Docs](https://grow.empress.eco/) | [Report Bug](https://github.com/empress-eco/pink_theme/issues) | [Request Feature](https://github.com/empress-eco/pink_theme/issues)
+
+</div>
+
 
 ## 📖 About Pink Theme
 
